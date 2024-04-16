@@ -1,0 +1,34 @@
+{
+  "PlayerIDs": [
+    "player_1",
+    "bot_0"
+  ],
+  "PlayerTurn": 0,
+  "GameMode": 1,
+  "Board": [
+    [
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "Actions": [
+    {
+      "Row": 1,
+      "Column": 3,
+      "PlayerID": "player_1"
+    },
+    {
+      "Row": 1,
+      "Column": 4,
+      "PlayerID": "bot_0"
+    }
+  ]
+}

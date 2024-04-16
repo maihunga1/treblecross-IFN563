@@ -1,0 +1,57 @@
+/Users/hanhkimla/Documents/else/BoardGame/bin/Debug/net8.0/BoardGame
+/Users/hanhkimla/Documents/else/BoardGame/bin/Debug/net8.0/BoardGame.deps.json
+/Users/hanhkimla/Documents/else/BoardGame/bin/Debug/net8.0/BoardGame.runtimeconfig.json
+/Users/hanhkimla/Documents/else/BoardGame/bin/Debug/net8.0/BoardGame.dll
+/Users/hanhkimla/Documents/else/BoardGame/bin/Debug/net8.0/BoardGame.pdb
+/Users/hanhkimla/Documents/else/BoardGame/obj/Debug/net8.0/BoardGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hanhkimla/Documents/else/BoardGame/obj/Debug/net8.0/BoardGame.AssemblyInfoInputs.cache
+/Users/hanhkimla/Documents/else/BoardGame/obj/Debug/net8.0/BoardGame.AssemblyInfo.cs
+/Users/hanhkimla/Documents/else/BoardGame/obj/Debug/net8.0/BoardGame.csproj.CoreCompileInputs.cache
+/Users/hanhkimla/Documents/else/BoardGame/obj/Debug/net8.0/BoardGame.sourcelink.json
+/Users/hanhkimla/Documents/else/BoardGame/obj/Debug/net8.0/BoardGame.dll
+/Users/hanhkimla/Documents/else/BoardGame/obj/Debug/net8.0/refint/BoardGame.dll
+/Users/hanhkimla/Documents/else/BoardGame/obj/Debug/net8.0/BoardGame.pdb
+/Users/hanhkimla/Documents/else/BoardGame/obj/Debug/net8.0/BoardGame.genruntimeconfig.cache
+/Users/hanhkimla/Documents/else/BoardGame/obj/Debug/net8.0/ref/BoardGame.dll
+C:/Users/admin/OneDrive - National Economics University/Desktop/BoardGame-main/bin/Debug/net8.0/BoardGame.exe
+C:/Users/admin/OneDrive - National Economics University/Desktop/BoardGame-main/bin/Debug/net8.0/BoardGame.deps.json
+C:/Users/admin/OneDrive - National Economics University/Desktop/BoardGame-main/bin/Debug/net8.0/BoardGame.runtimeconfig.json
+C:/Users/admin/OneDrive - National Economics University/Desktop/BoardGame-main/bin/Debug/net8.0/BoardGame.dll
+C:/Users/admin/OneDrive - National Economics University/Desktop/BoardGame-main/bin/Debug/net8.0/BoardGame.pdb
+C:/Users/admin/OneDrive - National Economics University/Desktop/BoardGame-main/obj/Debug/net8.0/BoardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/admin/OneDrive - National Economics University/Desktop/BoardGame-main/obj/Debug/net8.0/BoardGame.AssemblyInfoInputs.cache
+C:/Users/admin/OneDrive - National Economics University/Desktop/BoardGame-main/obj/Debug/net8.0/BoardGame.AssemblyInfo.cs
+C:/Users/admin/OneDrive - National Economics University/Desktop/BoardGame-main/obj/Debug/net8.0/BoardGame.csproj.CoreCompileInputs.cache
+C:/Users/admin/OneDrive - National Economics University/Desktop/BoardGame-main/obj/Debug/net8.0/BoardGame.dll
+C:/Users/admin/OneDrive - National Economics University/Desktop/BoardGame-main/obj/Debug/net8.0/refint/BoardGame.dll
+C:/Users/admin/OneDrive - National Economics University/Desktop/BoardGame-main/obj/Debug/net8.0/BoardGame.pdb
+C:/Users/admin/OneDrive - National Economics University/Desktop/BoardGame-main/obj/Debug/net8.0/BoardGame.genruntimeconfig.cache
+C:/Users/admin/OneDrive - National Economics University/Desktop/BoardGame-main/obj/Debug/net8.0/ref/BoardGame.dll
+/Users/hanhkimla/Documents/BoardGame-main/bin/Debug/net8.0/BoardGame
+/Users/hanhkimla/Documents/BoardGame-main/bin/Debug/net8.0/BoardGame.deps.json
+/Users/hanhkimla/Documents/BoardGame-main/bin/Debug/net8.0/BoardGame.runtimeconfig.json
+/Users/hanhkimla/Documents/BoardGame-main/bin/Debug/net8.0/BoardGame.dll
+/Users/hanhkimla/Documents/BoardGame-main/bin/Debug/net8.0/BoardGame.pdb
+/Users/hanhkimla/Documents/BoardGame-main/obj/Debug/net8.0/BoardGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hanhkimla/Documents/BoardGame-main/obj/Debug/net8.0/BoardGame.AssemblyInfoInputs.cache
+/Users/hanhkimla/Documents/BoardGame-main/obj/Debug/net8.0/BoardGame.AssemblyInfo.cs
+/Users/hanhkimla/Documents/BoardGame-main/obj/Debug/net8.0/BoardGame.csproj.CoreCompileInputs.cache
+/Users/hanhkimla/Documents/BoardGame-main/obj/Debug/net8.0/BoardGame.dll
+/Users/hanhkimla/Documents/BoardGame-main/obj/Debug/net8.0/refint/BoardGame.dll
+/Users/hanhkimla/Documents/BoardGame-main/obj/Debug/net8.0/BoardGame.pdb
+/Users/hanhkimla/Documents/BoardGame-main/obj/Debug/net8.0/BoardGame.genruntimeconfig.cache
+/Users/hanhkimla/Documents/BoardGame-main/obj/Debug/net8.0/ref/BoardGame.dll
+C:\Users\admin\OneDrive - National Economics University\Desktop\Final\BoardGame-main\obj\Debug\net8.0\BoardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive - National Economics University\Desktop\Final\BoardGame-main\obj\Debug\net8.0\BoardGame.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive - National Economics University\Desktop\Final\BoardGame-main\obj\Debug\net8.0\BoardGame.AssemblyInfo.cs
+C:\Users\admin\OneDrive - National Economics University\Desktop\Final\BoardGame-main\obj\Debug\net8.0\BoardGame.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - National Economics University\Desktop\Final\BoardGame-main\obj\Debug\net8.0\BoardGame.dll
+C:\Users\admin\OneDrive - National Economics University\Desktop\Final\BoardGame-main\obj\Debug\net8.0\refint\BoardGame.dll
+C:\Users\admin\OneDrive - National Economics University\Desktop\Final\BoardGame-main\obj\Debug\net8.0\BoardGame.pdb
+C:\Users\admin\OneDrive - National Economics University\Desktop\Final\BoardGame-main\bin\Debug\net8.0\BoardGame.exe
+C:\Users\admin\OneDrive - National Economics University\Desktop\Final\BoardGame-main\bin\Debug\net8.0\BoardGame.deps.json
+C:\Users\admin\OneDrive - National Economics University\Desktop\Final\BoardGame-main\bin\Debug\net8.0\BoardGame.runtimeconfig.json
+C:\Users\admin\OneDrive - National Economics University\Desktop\Final\BoardGame-main\bin\Debug\net8.0\BoardGame.dll
+C:\Users\admin\OneDrive - National Economics University\Desktop\Final\BoardGame-main\bin\Debug\net8.0\BoardGame.pdb
+C:\Users\admin\OneDrive - National Economics University\Desktop\Final\BoardGame-main\obj\Debug\net8.0\BoardGame.genruntimeconfig.cache
+C:\Users\admin\OneDrive - National Economics University\Desktop\Final\BoardGame-main\obj\Debug\net8.0\ref\BoardGame.dll
