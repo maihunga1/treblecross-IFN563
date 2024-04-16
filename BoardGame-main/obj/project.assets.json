@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\OneDrive - National Economics University\\Desktop\\Final\\BoardGame-main\\BoardGame.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\treblecross-IFN563\\BoardGame-main\\BoardGame.csproj",
       "projectName": "BoardGame",
-      "projectPath": "C:\\Users\\admin\\OneDrive - National Economics University\\Desktop\\Final\\BoardGame-main\\BoardGame.csproj",
+      "projectPath": "C:\\Users\\admin\\treblecross-IFN563\\BoardGame-main\\BoardGame.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\OneDrive - National Economics University\\Desktop\\Final\\BoardGame-main\\obj\\",
+      "outputPath": "C:\\Users\\admin\\treblecross-IFN563\\BoardGame-main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -118,66 +118,41 @@ public class GameProgram
   /// <summary>
   /// Runs a list of prompts to get the user's input for initiating a new game, then initialise a new game.
   /// </summary>
-
-
   void SetupGame()
   {
     try
     {
       GameState = GameProgramStatus.SetupGame;
 
-      // Prompt user to select the game
-      Prompt.Setup("Select a game: (1) TrebleCross or (2) Othello");
-      string gameChoice = Console.ReadLine()?.Trim() ?? "";
-
-      if (gameChoice != "1" && gameChoice != "2")
+      //Select the game mode ("human versus human" or human versus computer"). If user doesn't enter any input, the game mode is set to 1 by default
+      Prompt.Setup("Select mode (1 - default) vs computer or (2) vs human - enter to set default mode 1?");
+      string gameMode = Console.ReadLine()?.Trim() ?? "";
+      if (gameMode == "")
       {
-        throw new Exception($"Invalid game choice `{gameChoice}`.");
+        gameMode = "1";
+      }
+      else if (gameMode != "1" && gameMode != "2")
+      {
+        throw new Exception($"Invalid game mode `{gameMode}`.");
       }
 
-      if (gameChoice == "1")
+      //Prompt user to get the board size. If user doesn't enter any input, the game board size is set to 10 by default
+      Prompt.Setup("Board size - enter to set default size 10?");
+      string? boardSizeInput = Console.ReadLine() ?? "";
+      if (boardSizeInput == "")
       {
-        // Continue with TrebleCross setup
-        // Prompt user to select the game mode
-        Prompt.Setup("Select mode: (1) vs computer or (2) vs human - enter to set default mode 1?");
-        string gameModeChoice = Console.ReadLine()?.Trim() ?? "";
-
-        if (gameModeChoice == "")
-        {
-          gameModeChoice = "1"; // Set default mode to vs computer
-        }
-
-        if (gameModeChoice != "1" && gameModeChoice != "2")
-        {
-          throw new Exception($"Invalid game mode choice `{gameModeChoice}`.");
-        }
-
-        // Prompt user to enter the board size
-        Prompt.Setup("Board size - enter to set default size 10?");
-        string boardSizeInput = Console.ReadLine()?.Trim() ?? "";
-        if (boardSizeInput == "")
-        {
-          boardSizeInput = "10"; // Set default size to 10
-        }
-
-        if (!int.TryParse(boardSizeInput, out int boardSize))
-        {
-          throw new Exception($"Cannot parse board size `{boardSizeInput}`.");
-        }
-
-        // Create a new TrebleCross game based on the selected mode and board size
-        GameController = new TrebleCrossController(gameModeChoice == "1", boardSize);
-        GameState = GameProgramStatus.Playing;
+        boardSizeInput = "10";
       }
 
-      else if (gameChoice == "2")
+      if (!int.TryParse(boardSizeInput, out int boardSize))
       {
-        // For Othello, display the development message and wait for user input
-        Console.WriteLine("The game Othello is being developed.");
-        Console.WriteLine("Enter anything to go back.");
-        Console.ReadLine();
-        GameState = GameProgramStatus.MainMenu;
+        throw new Exception($"Cannot parse board size `{boardSizeInput}`.");
       }
+
+      //Create a new game by setting up a game controller
+      GameController = new TrebleCrossController(gameMode == "1", boardSize);
+      //Set the program state `GameState` to `Playing` state
+      GameState = GameProgramStatus.Playing;
     }
     catch (Exception error)
     {
@@ -186,7 +161,6 @@ public class GameProgram
       GameState = GameProgramStatus.MainMenu;
     }
   }
-
 
   /// <summary>
   /// Loads game from a saved file and set up a games from the saved file data.

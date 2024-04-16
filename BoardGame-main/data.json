@@ -7,27 +7,27 @@
   "GameMode": 1,
   "Board": [
     [
-      0,
-      0,
-      0,
+      1,
       1,
       0,
       0,
       0,
       0,
       0,
-      1
+      0,
+      0,
+      0
     ]
   ],
   "Actions": [
     {
       "Row": 1,
-      "Column": 4,
+      "Column": 2,
       "PlayerID": "player_1"
     },
     {
       "Row": 1,
-      "Column": 10,
+      "Column": 1,
       "PlayerID": "bot_0"
     }
   ]
